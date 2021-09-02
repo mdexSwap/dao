@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "https://cdn.jsdelivr.net/gh/mdexSwap/dao@main/static/css/main.4892eade.chunk.css",
-    "main.js": "https://cdn.jsdelivr.net/gh/mdexSwap/dao@main/static/js/main.2a9f78ce.chunk.js",
-    "runtime-main.js": "https://cdn.jsdelivr.net/gh/mdexSwap/dao@main/static/js/runtime-main.cb11e8eb.js",
-    "static/js/2.d948e5df.chunk.js": "https://cdn.jsdelivr.net/gh/mdexSwap/dao@main/static/js/2.d948e5df.chunk.js",
-    "static/css/3.13c3f5f4.chunk.css": "https://cdn.jsdelivr.net/gh/mdexSwap/dao@main/static/css/3.13c3f5f4.chunk.css",
-    "static/js/3.466613c8.chunk.js": "https://cdn.jsdelivr.net/gh/mdexSwap/dao@main/static/js/3.466613c8.chunk.js",
+    "main.js": "https://cdn.jsdelivr.net/gh/mdexSwap/dao@main/static/js/main.206a4629.chunk.js",
+    "runtime-main.js": "https://cdn.jsdelivr.net/gh/mdexSwap/dao@main/static/js/runtime-main.1afe1a0c.js",
+    "static/js/2.cbe3ef3c.chunk.js": "https://cdn.jsdelivr.net/gh/mdexSwap/dao@main/static/js/2.cbe3ef3c.chunk.js",
+    "static/css/3.2e00b291.chunk.css": "https://cdn.jsdelivr.net/gh/mdexSwap/dao@main/static/css/3.2e00b291.chunk.css",
+    "static/js/3.61de1f3c.chunk.js": "https://cdn.jsdelivr.net/gh/mdexSwap/dao@main/static/js/3.61de1f3c.chunk.js",
     "static/js/4.65b7af1b.chunk.js": "https://cdn.jsdelivr.net/gh/mdexSwap/dao@main/static/js/4.65b7af1b.chunk.js",
     "static/js/5.3a53e6ca.chunk.js": "https://cdn.jsdelivr.net/gh/mdexSwap/dao@main/static/js/5.3a53e6ca.chunk.js",
     "index.html": "https://cdn.jsdelivr.net/gh/mdexSwap/dao@main/index.html",
-    "static/js/2.d948e5df.chunk.js.LICENSE.txt": "https://cdn.jsdelivr.net/gh/mdexSwap/dao@main/static/js/2.d948e5df.chunk.js.LICENSE.txt",
+    "static/js/2.cbe3ef3c.chunk.js.LICENSE.txt": "https://cdn.jsdelivr.net/gh/mdexSwap/dao@main/static/js/2.cbe3ef3c.chunk.js.LICENSE.txt",
     "static/js/4.65b7af1b.chunk.js.LICENSE.txt": "https://cdn.jsdelivr.net/gh/mdexSwap/dao@main/static/js/4.65b7af1b.chunk.js.LICENSE.txt",
     "static/media/reset.scss": "https://cdn.jsdelivr.net/gh/mdexSwap/dao@main/static/media/OPPOSans-M.bf0c9031.woff2",
     "static/media/Banner.module.scss": "https://cdn.jsdelivr.net/gh/mdexSwap/dao@main/static/media/h5_bg.d02a936b.png",
@@ -17,16 +17,16 @@
     "static/media/Power.module.scss": "https://cdn.jsdelivr.net/gh/mdexSwap/dao@main/static/media/coinwind12_active.a8e6c853.png",
     "static/media/Tool.module.scss": "https://cdn.jsdelivr.net/gh/mdexSwap/dao@main/static/media/tool.cf36bace.png",
     "static/media/Vote.module.scss": "https://cdn.jsdelivr.net/gh/mdexSwap/dao@main/static/media/vote.38bb37f3.png",
-    "static/media/logo.c01d3c89.svg": "https://cdn.jsdelivr.net/gh/mdexSwap/dao@main/static/media/logo.c01d3c89.svg",
+    "static/media/logo.43db5979.svg": "https://cdn.jsdelivr.net/gh/mdexSwap/dao@main/static/media/logo.43db5979.svg",
     "static/media/more.26fe73db.svg": "https://cdn.jsdelivr.net/gh/mdexSwap/dao@main/static/media/more.26fe73db.svg",
     "static/media/Realize.module.scss": "https://cdn.jsdelivr.net/gh/mdexSwap/dao@main/static/media/r_arrow_active.0458796f.svg",
     "static/media/smile.ee60fb37.svg": "https://cdn.jsdelivr.net/gh/mdexSwap/dao@main/static/media/smile.ee60fb37.svg",
     "static/media/Tab.module.scss": "https://cdn.jsdelivr.net/gh/mdexSwap/dao@main/static/media/tab.8633b79e.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.cb11e8eb.js",
-    "static/js/2.d948e5df.chunk.js",
+    "static/js/runtime-main.1afe1a0c.js",
+    "static/js/2.cbe3ef3c.chunk.js",
     "static/css/main.4892eade.chunk.css",
-    "static/js/main.2a9f78ce.chunk.js"
+    "static/js/main.206a4629.chunk.js"
   ]
 }
