@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="50px" height="50px" viewBox="0 0 50 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>鼠标经过</title>
+    <defs>
+        <circle id="path-1" cx="25" cy="25" r="25"></circle>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Dao首页切图" transform="translate(-1074.000000, -2299.000000)">
+            <g id="编组-37备份" transform="translate(360.000000, 2267.000000)">
+                <g id="编组-36备份" transform="translate(404.000000, 0.000000)">
+                    <g id="鼠标经过" transform="translate(310.000000, 32.000000)">
+                        <mask id="mask-2" fill="white">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <use id="蒙版" fill="#FFFFFF" opacity="0.05" xlink:href="#path-1"></use>
+                        <path d="M21.7838492,20.5 L29.5,20.5 L29.5,28.2142857 M20.5,29.5 L28.8537951,21.2509069" id="路径-13" stroke="#FFFFFF" stroke-width="2" mask="url(#mask-2)" transform="translate(25.000000, 25.000000) rotate(45.000000) translate(-25.000000, -25.000000) "></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
