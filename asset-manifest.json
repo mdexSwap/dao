@@ -2,10 +2,10 @@
   "files": {
     "main.css": "https://cdn.jsdelivr.net/gh/mdexSwap/dao@main/static/css/main.4892eade.chunk.css",
     "main.js": "https://cdn.jsdelivr.net/gh/mdexSwap/dao@main/static/js/main.6cd8e4fe.chunk.js",
-    "runtime-main.js": "https://cdn.jsdelivr.net/gh/mdexSwap/dao@main/static/js/runtime-main.1e2d8168.js",
+    "runtime-main.js": "https://cdn.jsdelivr.net/gh/mdexSwap/dao@main/static/js/runtime-main.9ec39627.js",
     "static/js/2.688f8692.chunk.js": "https://cdn.jsdelivr.net/gh/mdexSwap/dao@main/static/js/2.688f8692.chunk.js",
     "static/css/3.50acb7d5.chunk.css": "https://cdn.jsdelivr.net/gh/mdexSwap/dao@main/static/css/3.50acb7d5.chunk.css",
-    "static/js/3.d9658415.chunk.js": "https://cdn.jsdelivr.net/gh/mdexSwap/dao@main/static/js/3.d9658415.chunk.js",
+    "static/js/3.4733d90a.chunk.js": "https://cdn.jsdelivr.net/gh/mdexSwap/dao@main/static/js/3.4733d90a.chunk.js",
     "static/js/4.aae5aad9.chunk.js": "https://cdn.jsdelivr.net/gh/mdexSwap/dao@main/static/js/4.aae5aad9.chunk.js",
     "static/js/5.b370e5fd.chunk.js": "https://cdn.jsdelivr.net/gh/mdexSwap/dao@main/static/js/5.b370e5fd.chunk.js",
     "index.html": "https://cdn.jsdelivr.net/gh/mdexSwap/dao@main/index.html",
@@ -20,7 +20,7 @@
     "static/media/Tab.module.scss": "https://cdn.jsdelivr.net/gh/mdexSwap/dao@main/static/media/tab.8633b79e.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.1e2d8168.js",
+    "static/js/runtime-main.9ec39627.js",
     "static/js/2.688f8692.chunk.js",
     "static/css/main.4892eade.chunk.css",
     "static/js/main.6cd8e4fe.chunk.js"
