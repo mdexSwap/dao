@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="199px" height="194px" viewBox="0 0 199 194" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>失败</title>
+    <defs>
+        <linearGradient x1="50%" y1="1.41235393%" x2="50%" y2="95.9536675%" id="linearGradient-1">
+            <stop stop-color="#EB692D" offset="0%"></stop>
+            <stop stop-color="#FF476F" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="节点-弹窗" transform="translate(-1408.000000, -132.000000)">
+            <g id="链接钱包备份-3" transform="translate(1245.000000, 57.000000)">
+                <g id="失败" transform="translate(163.000000, 75.000000)">
+                    <circle id="椭圆形" fill-opacity="0.05" fill="url(#linearGradient-1)" cx="97" cy="97" r="97"></circle>
+                    <circle id="椭圆形" fill-opacity="0.2" fill="url(#linearGradient-1)" cx="97" cy="97" r="73"></circle>
+                    <circle id="椭圆形" fill="url(#linearGradient-1)" cx="97" cy="97" r="52"></circle>
+                    <g id="编组-3" transform="translate(76.252484, 77.000000)" fill="#FFFFFF" fill-rule="nonzero">
+                        <path d="M32.2917965,1.43581964 C34.2602395,-0.500850995 37.4259596,-0.475094379 39.3626303,1.49334865 C41.2406139,3.4021419 41.2733032,6.4367494 39.4786983,8.38480318 L39.3051013,8.56418244 L8.50665343,39.2165907 C6.53821039,41.1532614 3.37249028,41.1275047 1.43581964,39.1590617 C-0.442164006,37.2502685 -0.474853341,34.215661 1.31975159,32.2676072 L1.49334865,32.0882279 L32.2917965,1.43581964 Z" id="路径" fill-opacity="0.6" transform="translate(20.399225, 20.326205) scale(-1, 1) translate(-20.399225, -20.326205) "></path>
+                        <path d="M32.2917965,1.43581964 C34.2602395,-0.500850995 37.4259596,-0.475094379 39.3626303,1.49334865 C41.2406139,3.4021419 41.2733032,6.4367494 39.4786983,8.38480318 L39.3051013,8.56418244 L8.50665343,39.2165907 C6.53821039,41.1532614 3.37249028,41.1275047 1.43581964,39.1590617 C-0.442164006,37.2502685 -0.474853341,34.215661 1.31975159,32.2676072 L1.49334865,32.0882279 L32.2917965,1.43581964 Z" id="路径"></path>
+                    </g>
+                    <circle id="椭圆形" fill="#FF1B5A" cx="172.5" cy="36.5" r="3.5"></circle>
+                    <circle id="椭圆形备份-6" fill="#FF1B5A" cx="24" cy="105" r="5"></circle>
+                    <circle id="椭圆形备份-2" fill="#FF8F54" cx="171" cy="87" r="5"></circle>
+                    <circle id="椭圆形备份-3" fill="#F7C926" cx="191" cy="118" r="8"></circle>
+                    <circle id="椭圆形备份-4" fill="#FF90A4" cx="163" cy="165" r="6"></circle>
+                    <circle id="椭圆形备份-5" fill="#FFCA31" cx="15" cy="46" r="6"></circle>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

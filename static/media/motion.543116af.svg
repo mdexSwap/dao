@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="25px" viewBox="0 0 24 25" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>社区提案</title>
+    <defs>
+        <filter color-interpolation-filters="auto" id="filter-1">
+            <feColorMatrix in="SourceGraphic" type="matrix" values="0 0 0 0 0.360784 0 0 0 0 0.439216 0 0 0 0 0.486275 0 0 0 1.000000 0"></feColorMatrix>
+        </filter>
+        <rect id="path-2" x="0" y="0" width="24" height="24"></rect>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Tab-bar" transform="translate(-310.000000, -65.000000)">
+            <g id="底部栏备份-2" transform="translate(59.000000, 58.976183)">
+                <g id="2备份-3" transform="translate(225.000000, 0.000000)">
+                    <g id="社区提案" transform="translate(26.000000, 7.000000)">
+                        <polygon id="路径" points="0 24 24 24 24 0 0 0"></polygon>
+                        <g filter="url(#filter-1)" id="编组-76备份">
+                            <g>
+                                <mask id="mask-3" fill="white">
+                                    <use xlink:href="#path-2"></use>
+                                </mask>
+                                <g id="蒙版"></g>
+                                <path d="M22.8026174,8.94467849 C24.1723907,13.5652974 22.2614558,18.6906627 17.9043498,21.206239 C13.5312707,23.7310375 8.11351577,22.8073491 4.8,19.2789231 L4.8,19.2789231 L5.19142632,19.1815681 C7.68691046,18.5349573 11.0163503,17.1117873 14.4793822,15.1124049 C18.0431995,13.054834 21.0077931,10.8146695 22.8026174,8.94467849 Z M7.2835535,2.35835529 C11.233795,0.077682307 16.0364574,0.610860862 19.3698742,3.33526893 C21.6487289,2.72066789 23.2672119,2.72973239 23.7165469,3.50800345 C24.6537574,5.13129963 20.1497504,9.48627804 13.6565657,13.23512 C7.16338095,16.9839619 1.13985551,18.7070572 0.202645023,17.083761 C-0.234693059,16.3262692 0.512799843,14.9739507 2.09515186,13.365879 C1.37822634,9.1003231 3.31749457,4.64816048 7.2835535,2.35835529 Z" id="形状结合" fill="#D8D8D8" mask="url(#mask-3)"></path>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
