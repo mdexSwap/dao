@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="112px" height="32px" viewBox="0 0 112 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>等待中</title>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="111" height="32"></rect>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="我的" transform="translate(-619.000000, -1781.000000)">
+            <g id="编组-30备份" transform="translate(360.000000, 1711.000000)">
+                <g id="编组-35备份" transform="translate(0.000000, 70.000000)">
+                    <g id="等待中" transform="translate(259.278111, 0.000000)">
+                        <mask id="mask-2" fill="white">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <g id="蒙版"></g>
+                        <path d="M5.98858526,0 L94.7218894,0 C103.558445,-1.623249e-15 110.721889,7.163444 110.721889,16 L110.721889,22 C110.721889,27.5228475 106.244737,32 100.721889,32 L24.302894,32 C18.8580618,32 13.786947,29.231064 10.8431062,24.6506711 L0.941164814,9.24400166 C-0.850447834,6.45638832 -0.0430297405,2.7441922 2.7445836,0.95257955 C3.7122496,0.330655906 4.83829551,-2.45323046e-15 5.98858526,0 Z" id="矩形" fill="#7485F3" mask="url(#mask-2)"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

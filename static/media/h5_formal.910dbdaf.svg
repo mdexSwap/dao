@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="118px" height="32px" viewBox="0 0 118 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>候选</title>
+    <defs>
+        <polygon id="path-1" points="0 0 118 0 118 32 0 32"></polygon>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="H5我的" transform="translate(-241.000000, -893.000000)">
+            <g id="编组-35备份-2" transform="translate(16.000000, 893.000000)">
+                <g id="候选" transform="translate(225.000000, 0.000000)">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <g id="蒙版"></g>
+                    <path d="M6.14488076,0 L101.74945,0 C110.586006,-1.623249e-15 117.74945,7.163444 117.74945,16 L117.74945,22 C117.74945,27.5228475 113.272297,32 107.74945,32 L23.4705988,32 C17.755838,32 12.4749455,28.9519921 9.61627628,24.0036085 L0.949509823,9.00135317 C-0.708091764,6.13202904 0.274203446,2.46223065 3.14352758,0.804629068 C4.05596451,0.277516472 5.09113087,-6.94607705e-16 6.14488076,0 Z" id="矩形" fill="#00AA7A" mask="url(#mask-2)"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

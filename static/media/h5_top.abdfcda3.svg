@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="343px" height="67px" viewBox="0 0 343 67" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>矩形</title>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="H5我的" transform="translate(-16.000000, -893.000000)" fill="#0D3039">
+            <g id="编组-37备份" transform="translate(16.000000, 893.000000)">
+                <path d="M24,0 L196.191809,0 C203.299065,1.84248692e-14 209.872422,3.77181767 213.458793,9.90786206 L226.132732,31.5921379 C229.719102,37.7281823 236.29246,41.5 243.399716,41.5 L333,41.5 C338.522847,41.5 343,45.9771525 343,51.5 L343,67 L343,67 L0,67 L0,24 C-5.17596268e-15,10.745166 10.745166,-1.11784017e-15 24,0 Z" id="矩形"></path>
+            </g>
+        </g>
+    </g>
+</svg>
