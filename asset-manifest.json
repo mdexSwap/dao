@@ -8,7 +8,7 @@
     "static/css/3.2e5e0193.chunk.css": "https://cdn.jsdelivr.net/gh/mdexSwap/dao@main/static/css/3.2e5e0193.chunk.css",
     "static/js/3.47f0a7e8.chunk.js": "https://cdn.jsdelivr.net/gh/mdexSwap/dao@main/static/js/3.47f0a7e8.chunk.js",
     "main.css": "https://cdn.jsdelivr.net/gh/mdexSwap/dao@main/static/css/main.b5b7db28.chunk.css",
-    "main.js": "https://cdn.jsdelivr.net/gh/mdexSwap/dao@main/static/js/main.6cc216ed.chunk.js",
+    "main.js": "https://cdn.jsdelivr.net/gh/mdexSwap/dao@main/static/js/main.8390881b.chunk.js",
     "runtime-main.js": "https://cdn.jsdelivr.net/gh/mdexSwap/dao@main/static/js/runtime-main.46763e5a.js",
     "static/js/6.4242431b.chunk.js": "https://cdn.jsdelivr.net/gh/mdexSwap/dao@main/static/js/6.4242431b.chunk.js",
     "static/css/7.39c2ad83.chunk.css": "https://cdn.jsdelivr.net/gh/mdexSwap/dao@main/static/css/7.39c2ad83.chunk.css",
@@ -65,6 +65,6 @@
     "static/js/runtime-main.46763e5a.js",
     "static/js/6.4242431b.chunk.js",
     "static/css/main.b5b7db28.chunk.css",
-    "static/js/main.6cc216ed.chunk.js"
+    "static/js/main.8390881b.chunk.js"
   ]
 }
