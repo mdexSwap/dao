@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="30px" height="29px" viewBox="0 0 30 29" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>不通过</title>
+    <g id="提案" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="社区提案-详情" transform="translate(-950.000000, -165.000000)">
+            <g id="编组备份-2" transform="translate(944.000000, 159.000000)">
+                <g id="编组-19" transform="translate(6.000000, 2.923077)">
+                    <g id="不通过" transform="translate(0.000000, 3.230769)">
+                        <path d="M14.6306818,0 C22.7109843,0 29.2613636,6.45743149 29.2613636,14.4230769 C29.2613636,22.3887224 22.7109843,28.8461538 14.6306818,28.8461538 C6.55037937,28.8461538 0,22.3887224 0,14.4230769 C0,6.45743149 6.55037937,0 14.6306818,0 Z" id="路径" fill="#F27171"></path>
+                        <path d="M19.3305556,9.78516351 L9.46944444,19.6462746 M9.46756757,9.78516351 L19.3324324,19.6462746" id="形状结合" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

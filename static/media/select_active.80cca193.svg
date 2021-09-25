@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>选中</title>
+    <g id="提案" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="提案公投-详情" transform="translate(-410.000000, -846.000000)">
+            <g id="编组-21备份-3" transform="translate(360.000000, 818.000000)">
+                <g id="选中" transform="translate(50.000000, 28.000000)">
+                    <path d="M12,0 C18.627417,-1.21743675e-15 24,5.372583 24,12 C24,18.627417 18.627417,24 12,24 C5.372583,24 8.11624501e-16,18.627417 0,12 C-8.11624501e-16,5.372583 5.372583,1.21743675e-15 12,0 Z" id="Swatch" fill="#109899"></path>
+                    <circle id="Selection-Ring" stroke="#067071" stroke-width="2" fill="#FFFFFF" cx="12" cy="12" r="8"></circle>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
